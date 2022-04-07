@@ -4,7 +4,7 @@
 
 This is a curated list of materials, tools and advice for seasoned or aspiring Engineering Leaders.
 
-It's deliberately not targtted only at Engineering Managers or any specific titles because as we know, titles are one thing, what you're doing is another!
+It's deliberately not targetted only at Engineering Managers or any specific titles because as we know, titles are one thing, what you're doing is another!
 <br />
 
 ### :notebook_with_decorative_cover: - Contributors -
