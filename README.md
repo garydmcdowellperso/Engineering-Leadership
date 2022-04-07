@@ -5,6 +5,8 @@
 This is a curated list of materials, tools and advice for seasoned or aspiring Engineering Leaders.
 
 It's deliberately not targetted only at Engineering Managers or any specific titles because as we know, titles are one thing, what you're doing is another!
+
+I make no apology for the use of British English in these pages :smiley:
 <br />
 
 ### :notebook_with_decorative_cover: - Contributors -
@@ -16,13 +18,13 @@ A big thank you to them all
 
 ### :cd: - Where to start ? -
 
-Well that's a little up to you :-) the repository itself should be fairly self explanatory in it's layout and each folder has its own README dedicated to that topic. 
+Well that's a little up to you :smiley: the repository itself should be fairly self explanatory in it's layout and each folder has its own README dedicated to that topic. 
 
+|- [organisation](/organisation/README.md)
+|- [process](/process/README.md)
 |- [reading](/reading/README.md)
-
 |- [resources](/resources/README.md)
-
-|- tooling
+|- [tooling](/tooling/README.md)
 
 
 ### :rocket: - Motivation -
